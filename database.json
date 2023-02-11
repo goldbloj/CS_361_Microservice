@@ -1,0 +1,94 @@
+{
+    "type" : {
+
+        "alpine" : {
+
+            "texture" : ["alpine1.bmp"],
+
+            "atmosphere" : ["mostly oxygen", "mostly nitrogen"],
+
+            "system" : ["Proxima Centauri", "Lalande 21185", "Lalande 21185", "Luyten's Star", "YZ Ceti", "Tau Ceti"]
+
+        },
+
+        "gaseous" : {
+
+            "texture" : ["gaseous1.bmp", "gaseous2.bmp", "gaseous3.bmp", "gaseous4.bmp", "venusian.bmp"],
+
+            "atmosphere" : ["mostly helium", "mostly hydrogen"],
+
+            "system" : ["Proxima Centauri", "Lalande 21185", "Lalande 21185", "Luyten's Star", "YZ Ceti", "Tau Ceti"]
+
+        } ,
+
+        "icy" : {
+
+            "texture" : ["icy1.bmp"],
+
+            "atmosphere" : ["mostly carbon dioxide", "mostly nitrogen"],
+
+            "system" : ["Proxima Centauri", "Lalande 21185", "Lalande 21185", "Luyten's Star", "YZ Ceti", "Tau Ceti"]
+
+        },
+
+        "martian" : {
+
+            "texture" : ["martian1.bmp"],
+
+            "atmosphere" : ["mostly carbon dioxide"],
+
+            "system" : ["Proxima Centauri", "Lalande 21185", "Lalande 21185", "Luyten's Star", "YZ Ceti", "Tau Ceti"]
+
+        },
+
+        "savannah" : {
+
+            "texture" : ["savannah1.bmp"],
+
+            "atmosphere" : ["mostly oxygen", "mostly nitrogen"],
+
+            "system" : ["Proxima Centauri", "Lalande 21185", "Lalande 21185", "Luyten's Star", "YZ Ceti", "Tau Ceti"]
+
+        },
+
+        "swamp" : {
+
+            "texture" : ["swamp1.bmp"],
+
+            "atmosphere" : ["mostly oxygen", "mostly nitrogen"],
+
+            "system" : ["Proxima Centauri", "Lalande 21185", "Lalande 21185", "Luyten's Star", "YZ Ceti", "Tau Ceti"]
+
+        },
+
+        "terrestrial" : {
+
+            "texture" : ["terrestrial1.bmp", "terrestrial2.bmp", "terrestrial3.bmp", "terrestrial4.bmp"],
+
+            "atmosphere" : ["mostly oxygen", "mostly nitrogen"],
+
+            "system" : ["Proxima Centauri", "Lalande 21185", "Lalande 21185", "Luyten's Star", "YZ Ceti", "Tau Ceti"]
+
+        },
+
+        "tropical" : {
+
+            "texture" : ["tropical1.bmp"],
+
+            "atmosphere" : ["mostly oxygen", "mostly nitrogen"],
+
+            "system" : ["Proxima Centauri", "Lalande 21185", "Lalande 21185", "Luyten's Star", "YZ Ceti", "Tau Ceti"]
+
+        },
+
+        "volcanic" : {
+
+            "texture" : ["volcanic1.bmp"],
+
+            "atmosphere" : ["mostly carbon dioxide"],
+
+            "system" : ["Proxima Centauri", "Lalande 21185", "Lalande 21185", "Luyten's Star", "YZ Ceti", "Tau Ceti"]
+
+        }
+    }
+}
