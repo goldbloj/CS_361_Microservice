@@ -30,6 +30,7 @@ Sending request 0 …
 
 You chose a(n) tropical planet
 
+
 To RECIEVE data from the microservice you implemented.
 
 Data is received by running **server.py**, which will then create a socket that matches one created by **client.py** via zeroMQ. Receiving the information sent from **client.py**, **server.py** will verify the request sent for a specific type of planet. **server.py** will open a database.json file, locate the planet type requested and construct a new JSON object using random characteristics from the specified type of planet. That JSON object will be packaged and sent back to the **client.py**. packaged  will   
