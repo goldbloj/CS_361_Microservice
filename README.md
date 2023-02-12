@@ -12,6 +12,7 @@ Example call:
 python client.py
 
 Hi user. Press "1" to generate a new planet: 1 
+
          1. alpine
          2. gaseous
          3. icy
@@ -21,6 +22,7 @@ Hi user. Press "1" to generate a new planet: 1
          7. terrestrial
          8. tropical
          9. volcanic
+         
 Choose the type of planet via its corresponding number
 from the list above and hit "Enter": 8
 
