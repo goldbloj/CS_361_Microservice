@@ -30,6 +30,8 @@ Data is received by running **server.py**, which will then create a socket that 
 
 Example call:
 
+python server.py
+
 Received request for planet type: b'tropical'
 
 Sending back:
