@@ -45,3 +45,5 @@ Received request for planet type: b'tropical'
 
 Sending back:
 {'type': 'tropical', 'texture': 'tropical1.bmp', 'atmosphere': 'mostly nitrogen', 'system': 'Proxima Centauri', 'size': 27849, 'moons': 8}
+
+![image](https://ibb.co/YtZL3LY)
